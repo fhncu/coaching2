@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      Opening.unity
+    guid: d5260fcc349d6f140ac1b9d4c8343440
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      1.unity
+    guid: a62f5d001aca8f94d8d0ecaf96739441
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/FlareDemo1.unity
+    guid: 84ad194acae3d9c4cb3537ed4ea53288
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/FlareDemo2
+      1.unity
+    guid: 10cea4452ecb7544a903ec3f49399805
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/FlareDemo2
+      2.unity
+    guid: 68286d072abf20a478e4c21240122fa9
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/FlareDemo2.unity
+    guid: 308f6b5864c181e46bd6a6e18bf0696c
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Levelmap_SceneDoorA
+      2.unity
+    guid: 601dc740f9b10c44c934ea4b76c32121
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Levelmap_SceneDoorA
+      3.unity
+    guid: 7228949b9c53eca4e9b129352790eb67
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Opening_alt1Demo2
+      1.unity
+    guid: 1897bdbb306f8124e8c5c99cb68480f9
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Title_SceneDoorA
+      3.unity
+    guid: 82e8fbf83069d8743804966e6f986a12
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      10.unity
+    guid: e96f8b6e35da8294fb2c1c08e0c28f18
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      11.unity
+    guid: 94496169efdc7f440923f731e5a5e151
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      12.unity
+    guid: 9b6408880846b734c8910efde20f4b1c
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      13.unity
+    guid: 6105ecc458255d847869f712efc74d1b
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      14.unity
+    guid: a55387134e906eb41804625c956932c8
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      15.unity
+    guid: 87cbe7926f2bb9f4d96c1e0d9f52d410
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      16.unity
+    guid: 27056561e7552dc489993b07857a8106
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      17.unity
+    guid: e727364159e15c74fbb754886b8db6f8
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      18.unity
+    guid: 9dcd0a827c83e17448bafb944e4f5e47
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      19.unity
+    guid: f3ed795fab9b21e4d9a8924b27081947
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      2.unity
+    guid: deb732ccccf11354d84a8361d4fee87a
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      20.unity
+    guid: 3f6bdbbefd0885049a52145d2acf6bc3
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      21.unity
+    guid: fb9a8361683f1cd45a33506e9283b5bd
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      22.unity
+    guid: 902d41c29a13d5d47be42b916dd78aa7
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      23.unity
+    guid: fc2904c4df21038488cb94ae9a6e9abc
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      24.unity
+    guid: a8fbe588dd39ab74badea38c93e5d13b
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      25.unity
+    guid: dc0d53621a9ddcf4288a5d82efc32f1f
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      26.unity
+    guid: d9c71120223635843bc7cf4971969b68
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      27.unity
+    guid: 049d3f1dbf82a234ab3f9aa54d6445ef
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      28.unity
+    guid: ef17fc1a8a6fe0245bb0cba7ce70c16f
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      29.unity
+    guid: e392089bc71c7ff45b821ed894dcd507
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      3.unity
+    guid: 1f85669fe37f8cd488381bc8d6667cef
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      30.unity
+    guid: d4d3a498c1fb1aa4891473cc2c5255d5
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      31.unity
+    guid: 4442818508a2c3a47b8592bdc401405c
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      32.unity
+    guid: c05aaab6f96f10d4e9ec76a94045cfb8
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      33.unity
+    guid: f32af0d2c50e4ab4d9815931d921aa60
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      34.unity
+    guid: 6fea3fb161f2b6746aeb5cfd5f1253bd
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      35.unity
+    guid: 02d4c6a12bbf57946b74c8c0f9c447e9
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      36.unity
+    guid: d0fc8fcfbca650345aeeee1db92896ac
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      4.unity
+    guid: 1f82763bc76d156469c43619de669d19
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      5.unity
+    guid: e59234a4b69c0a844a8c6028d18995e0
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      6.unity
+    guid: bf569fd6459fa02408a9fbd1efd4b6da
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      7.unity
+    guid: 00640a3f447d8384d887322b986de34a
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      8.unity
+    guid: 36f5ff54c63d85246b665b76d281661b
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      9.unity
+    guid: 0d8fc215960bf8a4f9402a9736629198
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol.unity
+    guid: 920fc325ff62c0146b0f7b0339c99d57
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol1.unity
+    guid: 04f43099c1a405244ae78f2877b1efe7
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Volbotsu.unity
+    guid: 70603305ff9960142a7bc7950c6a0518
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Vol
+      Title.unity
+    guid: 178b15ecce808ca49a6cf277c9125e83
+  - enabled: 1
+    path: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/New Folder 1/New Folder 1/Volbotsu2.unity
+    guid: 7abf97907b06856499f391fe9d28ba55
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 15d72b83cfafd24459aa7a42d5d0fd2c, type: 2}

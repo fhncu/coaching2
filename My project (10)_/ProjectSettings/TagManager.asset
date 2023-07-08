@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RotatedWall
+  - Edge2DDownOnly
+  - Edge2DUpOnly
+  - UIControl
+  - Block
+  - Friction
+  - NoClimb
+  - PushBlock
+  - SlowEnemy
+  - FireArm
+  - MeleeSword
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - World
+  - Platform
+  - Enemy
+  - Player
+  - Vehicle
+  - Hide
+  - Grapping
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3002075567
+    locked: 0
+  - name: Hide
+    uniqueID: 3558103599
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
