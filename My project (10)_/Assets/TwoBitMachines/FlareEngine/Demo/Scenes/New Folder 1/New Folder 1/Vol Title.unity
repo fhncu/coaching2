@@ -42408,17 +42408,13 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 21
       objectReference: {fileID: 0}
-    - target: {fileID: 2532254152122078254, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
-      propertyPath: m_SpriteTilingProperty.newSize.y
-      value: 21
-      objectReference: {fileID: 0}
     - target: {fileID: 2532254152122078255, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: m_LocalPosition.y
       value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 2532254152319517809, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.x
-      value: 6
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 2532254152319517810, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: m_LocalPosition.y
@@ -42734,7 +42730,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: zoom
-      value: 0.75
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: frameTimer
@@ -42758,11 +42754,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: offsetPosition.x
-      value: 18.75
+      value: 71.25
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: offsetPosition.y
-      value: -33.75
+      value: 71.25
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[7].frameIndex
@@ -63943,7 +63939,7 @@ MonoBehaviour:
   playInScene: 0
   resetPlayFrame: 0
   frameCounter: 0
-  frameTimer: -376.5773
+  frameTimer: 0.064819336
   zoom: 0.25
   propertyFoldOut: 0
   resetSprites: 0

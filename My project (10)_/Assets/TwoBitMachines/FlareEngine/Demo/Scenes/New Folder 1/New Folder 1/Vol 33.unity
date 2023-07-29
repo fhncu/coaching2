@@ -7412,10 +7412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0317357050108e64ebabea03ee5acf1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputNumber: 0
   sceneNames: []
-  sceneNumbers: 
-  numberList: 
 --- !u!1 &554681379
 GameObject:
   m_ObjectHideFlags: 0
@@ -42657,7 +42654,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0317357050108e64ebabea03ee5acf1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputNumber: 0
   sceneNames:
   - Vol 1
   - Vol 2
@@ -42667,8 +42663,6 @@ MonoBehaviour:
   - Vol 6
   - Vol 7
   - Vol 8
-  sceneNumbers: 
-  numberList: 
 --- !u!212 &1473370365
 SpriteRenderer:
   m_ObjectHideFlags: 0
