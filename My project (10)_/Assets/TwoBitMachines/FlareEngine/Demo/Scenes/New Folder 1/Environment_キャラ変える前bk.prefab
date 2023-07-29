@@ -35353,7 +35353,7 @@ GameObject:
   - component: {fileID: 2532254153610470963}
   - component: {fileID: 2532254153610470962}
   m_Layer: 0
-  m_Name: Environment
+  m_Name: "Environment_\u30AD\u30E3\u30E9\u5909\u3048\u308B\u524Dbk"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -96591,7 +96591,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 2, y: 4}
+    oldSize: {x: 4, y: 4}
     newSize: {x: 4, y: 4}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -96640,7 +96640,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 8793639957104055765, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+  m_Sprite: {fileID: 6131979675351488541, guid: 033bb638409647e48bde1952d2433a55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -96663,7 +96663,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7761d020ec0b05443be2e916ff4fb274, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  render: {fileID: 0}
+  render: {fileID: 8778037031749116007}
   tree:
     spriteFlip:
     - nodes:
@@ -97225,7 +97225,7 @@ MonoBehaviour:
   add: 0
   active: 0
   foldOut: 0
-  open: 1
+  open: 0
   delete: 0
   deleteAsk: 0
   spriteMenu: 0
@@ -97234,25 +97234,25 @@ MonoBehaviour:
   loopOnceFoldOut: 0
   transitionFoldOut: 0
   createTransition: 0
-  shiftNames: 3.000002
+  shiftNames: 9
   shiftProperty: 6
   signalIndex: 0
   tabIndex: 0
   scrollPosition: {x: 0, y: 0}
-  offsetPosition: {x: 18.75, y: -33.75}
+  offsetPosition: {x: 112.125, y: 112.125}
   color: {r: 0.18431371, g: 0.79006374, b: 1, a: 1}
   playInInspector: 0
   playInScene: 0
   resetPlayFrame: 0
   frameCounter: 0
   frameTimer: 0
-  zoom: 0.75
+  zoom: 0.25
   propertyFoldOut: 0
   resetSprites: 0
   propertyIndex: -1
   rendererSprite: {fileID: 6131979675351488541, guid: 033bb638409647e48bde1952d2433a55, type: 3}
   settingRenderer: 0
-  spriteIndex: 7
+  spriteIndex: 12
   sprites:
   - property: []
     frame:
@@ -97797,7 +97797,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: 8793639957104055765, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+      sprite: {fileID: 332067010231621799, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
       rate: 0.11764706
       add: 0
       delete: 0
@@ -97805,7 +97805,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: 6084859605308855041, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+      sprite: {fileID: 5238184639876704655, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
       rate: 0.11764706
       add: 0
       delete: 0
@@ -97813,7 +97813,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: 8603369663158992956, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+      sprite: {fileID: -5400792537294575135, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
       rate: 0.11764706
       add: 0
       delete: 0
@@ -97821,27 +97821,11 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: -5906421172241655209, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+      sprite: {fileID: -5414938976875148219, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
       rate: 0.11764706
       add: 0
       delete: 0
-      eventFoldOut: 0
-    - onEnterFrame:
-        m_PersistentCalls:
-          m_Calls: []
-      sprite: {fileID: 5704420531145803721, guid: e1c741f652e085741ac8152a15c06785, type: 3}
-      rate: 0.11764706
-      add: 0
-      delete: 0
-      eventFoldOut: 0
-    - onEnterFrame:
-        m_PersistentCalls:
-          m_Calls: []
-      sprite: {fileID: -148617073940163930, guid: e1c741f652e085741ac8152a15c06785, type: 3}
-      rate: 0.11764706
-      add: 0
-      delete: 0
-      eventFoldOut: 0
+      eventFoldOut: 1
     onLoopOnce:
       m_PersistentCalls:
         m_Calls: []
@@ -97854,7 +97838,7 @@ MonoBehaviour:
     hasTransition: 0
     hasChangedDirection: 0
     active: 0
-    frameIndex: 4
+    frameIndex: 3
     signalIndex: 3
     globalRate: 8.5
     transitionFoldOut: 0
@@ -97865,7 +97849,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: -3697937850672776721, guid: 1eab88eb55e6dd74ca3694c9f048a36b, type: 3}
+      sprite: {fileID: -709931316063374733, guid: 2784d79b7e6c98a488d531581cbe61ac, type: 3}
       rate: 0.1
       add: 0
       delete: 0
@@ -97873,7 +97857,15 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: 4987614716155920338, guid: 1eab88eb55e6dd74ca3694c9f048a36b, type: 3}
+      sprite: {fileID: -1510640766806151680, guid: 2784d79b7e6c98a488d531581cbe61ac, type: 3}
+      rate: 0.1
+      add: 0
+      delete: 0
+      eventFoldOut: 0
+    - onEnterFrame:
+        m_PersistentCalls:
+          m_Calls: []
+      sprite: {fileID: -8137341297413001729, guid: 2784d79b7e6c98a488d531581cbe61ac, type: 3}
       rate: 0.1
       add: 0
       delete: 0
@@ -97890,7 +97882,7 @@ MonoBehaviour:
     hasTransition: 0
     hasChangedDirection: 0
     active: 0
-    frameIndex: 1
+    frameIndex: 0
     signalIndex: 0
     globalRate: 0
     transitionFoldOut: 0
@@ -97901,7 +97893,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: 4281637774074219296, guid: 1eab88eb55e6dd74ca3694c9f048a36b, type: 3}
+      sprite: {fileID: 5500331513348178037, guid: 2784d79b7e6c98a488d531581cbe61ac, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -97909,7 +97901,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: -7862396843884538191, guid: 1eab88eb55e6dd74ca3694c9f048a36b, type: 3}
+      sprite: {fileID: -1858999049660160168, guid: 2784d79b7e6c98a488d531581cbe61ac, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -97917,7 +97909,15 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: 8276514422256456541, guid: 1eab88eb55e6dd74ca3694c9f048a36b, type: 3}
+      sprite: {fileID: 5526242424052655401, guid: 2784d79b7e6c98a488d531581cbe61ac, type: 3}
+      rate: 0.093023255
+      add: 0
+      delete: 0
+      eventFoldOut: 0
+    - onEnterFrame:
+        m_PersistentCalls:
+          m_Calls: []
+      sprite: {fileID: -8701700996547616746, guid: 2784d79b7e6c98a488d531581cbe61ac, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -97934,7 +97934,7 @@ MonoBehaviour:
     hasTransition: 0
     hasChangedDirection: 0
     active: 0
-    frameIndex: 2
+    frameIndex: 0
     signalIndex: 0
     globalRate: 10.75
     transitionFoldOut: 0
@@ -98226,7 +98226,7 @@ MonoBehaviour:
               m_StringArgument: step_cloth1
               m_BoolArgument: 0
             m_CallState: 2
-      sprite: {fileID: -1882347247711912902, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
+      sprite: {fileID: -3508399728743747605, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -98234,7 +98234,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: 7439426567979852956, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
+      sprite: {fileID: -3243377820418137495, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -98242,7 +98242,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: -2673560216460186399, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
+      sprite: {fileID: -6003446323106517755, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -98263,7 +98263,7 @@ MonoBehaviour:
               m_StringArgument: step_cloth2
               m_BoolArgument: 0
             m_CallState: 2
-      sprite: {fileID: -5822559823783948592, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
+      sprite: {fileID: -4628781491364611034, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -98271,7 +98271,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: -4997308686002322044, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
+      sprite: {fileID: -2094921549971527865, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -98279,23 +98279,7 @@ MonoBehaviour:
     - onEnterFrame:
         m_PersistentCalls:
           m_Calls: []
-      sprite: {fileID: -7808277857516635856, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
-      rate: 0.093023255
-      add: 0
-      delete: 0
-      eventFoldOut: 0
-    - onEnterFrame:
-        m_PersistentCalls:
-          m_Calls: []
-      sprite: {fileID: 2102408166121253023, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
-      rate: 0.093023255
-      add: 0
-      delete: 0
-      eventFoldOut: 0
-    - onEnterFrame:
-        m_PersistentCalls:
-          m_Calls: []
-      sprite: {fileID: -828024806730890176, guid: 460f5815ff18b9e45b5e4b6a6a5935e7, type: 3}
+      sprite: {fileID: -6123642687891745881, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
       rate: 0.093023255
       add: 0
       delete: 0
@@ -98312,7 +98296,7 @@ MonoBehaviour:
     hasTransition: 0
     hasChangedDirection: 0
     active: 0
-    frameIndex: 6
+    frameIndex: 0
     signalIndex: 2
     globalRate: 10.75
     transitionFoldOut: 0
@@ -98728,7 +98712,7 @@ MonoBehaviour:
     onLoopOnce:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 4011903360534620029}
           m_TargetAssemblyTypeName: TwoBitMachines.FlareEngine.Melee, Assembly-CSharp
           m_MethodName: CompleteAttack
           m_Mode: 1
@@ -98809,7 +98793,7 @@ MonoBehaviour:
     onLoopOnce:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 4011903360534620029}
           m_TargetAssemblyTypeName: TwoBitMachines.FlareEngine.Melee, Assembly-CSharp
           m_MethodName: CompleteAttack
           m_Mode: 1
@@ -98874,7 +98858,7 @@ MonoBehaviour:
     onLoopOnce:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 4011903360534620029}
           m_TargetAssemblyTypeName: TwoBitMachines.FlareEngine.Melee, Assembly-CSharp
           m_MethodName: CompleteAttack
           m_Mode: 1
@@ -99127,7 +99111,7 @@ MonoBehaviour:
         interpolateSize: 0
         interpolateEdgeRadius: 0
         interpolateDensity: 0
-        property: {fileID: 0}
+        property: {fileID: 8638740469899036109}
         original:
           sizeX: 0.0001
           sizeY: 0.0001
@@ -99262,7 +99246,7 @@ MonoBehaviour:
         interpolateSize: 0
         interpolateEdgeRadius: 0
         interpolateDensity: 0
-        property: {fileID: 0}
+        property: {fileID: 8638740469899036109}
         original:
           sizeX: 0.0001
           sizeY: 0.0001
@@ -99342,7 +99326,7 @@ MonoBehaviour:
         interpolateSize: 0
         interpolateEdgeRadius: 0
         interpolateDensity: 0
-        property: {fileID: 0}
+        property: {fileID: 8638740469899036109}
         original:
           sizeX: 0.0001
           sizeY: 0.0001
@@ -99431,7 +99415,7 @@ MonoBehaviour:
         interpolateSize: 0
         interpolateEdgeRadius: 0
         interpolateDensity: 0
-        property: {fileID: 0}
+        property: {fileID: 8638740469899036109}
         original:
           sizeX: 0.0001
           sizeY: 0.0001
