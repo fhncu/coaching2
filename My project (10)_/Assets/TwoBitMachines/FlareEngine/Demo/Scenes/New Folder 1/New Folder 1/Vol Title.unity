@@ -42392,6 +42392,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2532254152015241336, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2532254152064365287, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: m_LocalPosition.x
       value: 22
@@ -42741,8 +42745,12 @@ PrefabInstance:
       value: 10.000002
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
+      propertyPath: playInScene
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: spriteIndex
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: frameCounter
@@ -42766,7 +42774,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[10].frameIndex
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[11].frameIndex
@@ -42782,7 +42790,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[10].frame.Array.size
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[11].frame.Array.size
@@ -42823,15 +42831,15 @@ PrefabInstance:
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[10].frame.Array.data[2].sprite
       value: 
-      objectReference: {fileID: 8603369663158992956, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+      objectReference: {fileID: -5906421172241655209, guid: e1c741f652e085741ac8152a15c06785, type: 3}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[10].frame.Array.data[3].sprite
       value: 
-      objectReference: {fileID: -5906421172241655209, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+      objectReference: {fileID: 5704420531145803721, guid: e1c741f652e085741ac8152a15c06785, type: 3}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[10].frame.Array.data[4].sprite
       value: 
-      objectReference: {fileID: 5704420531145803721, guid: e1c741f652e085741ac8152a15c06785, type: 3}
+      objectReference: {fileID: -148617073940163930, guid: e1c741f652e085741ac8152a15c06785, type: 3}
     - target: {fileID: 7531720221266180748, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: sprites.Array.data[10].frame.Array.data[5].sprite
       value: 
@@ -42928,6 +42936,10 @@ PrefabInstance:
       propertyPath: value.y
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 8778037031749116007, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8793639957104055765, guid: e1c741f652e085741ac8152a15c06785, type: 3}
     - target: {fileID: 9124861411842282251, guid: 36aaab56d2843c447abd94faa53d8541, type: 3}
       propertyPath: m_IsActive
       value: 1
